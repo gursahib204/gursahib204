@@ -13,14 +13,14 @@
 
 - 💬 Ask me about **Android | Flutter**
 
-- 📫 How to reach me **gursahibsingh204@gmail.com**
+- 📫 How to reach me **gursahibsingh2719@gmail.com**
 
 - ⚡ Fun fact **The first computer mouse was made of wood.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gursahibsingh204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursahibsingh204" height="30" width="40" /></a>
-<a href="https://instagram.com/gursahibsahni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gursahibsahni_" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/gursahibsingh204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursahibsingh204" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/gursahibsahni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gursahibsahni_" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
